@@ -1,7 +1,6 @@
 ![Banner Image](https://github.com/ankurdhamija83/ankurdhamija83/blob/main/Github_Banner.png)
 
-### Hi there 👋
-
+### Hey, I'm Ankur Dhamija <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **ankurdhamija83/ankurdhamija83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
