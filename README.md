@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/ankurdhamija83/ankurdhamija83/blob/master/image/Banner.png)
+![Banner Image](https://github.com/ankurdhamija83/ankurdhamija83/blob/main/Linkedin_Banner_v2.png)
 
 ### Hi there 👋
 
