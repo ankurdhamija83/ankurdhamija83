@@ -1,7 +1,8 @@
 ![Banner Image](https://github.com/ankurdhamija83/ankurdhamija83/blob/main/Github_Banner.png)
 
 ## Hey, I'm Ankur Dhamija <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-- <b>I'm a Data Scientist and I help businesses drive data-driven decision making using data and analytics.</b>
+- <b>I'm a Data Scientist 
+- I help businesses make better, faster and informed decisions using data and analytics.</b>
 - I have recently completed Machine Learning course from Stanford University School of Engineering (organized via Stanford Center for Professional Development).
 
 ## Work Experience
