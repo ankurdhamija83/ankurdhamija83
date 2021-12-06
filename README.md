@@ -13,15 +13,19 @@
 - Worked across multiple cultures and diverse work environments in countries including Netherlands, France, Spain, Germany, Saudi Arabia and USA.
 
 ## Recent Projects
-
+- [Predicting Employee Turnover](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/Applied-ML-Models/HR-Analytics/HR-Analytics.ipynb)
+- [Housing Price Prediction](https://github.com/ankurdhamija83/Data-Science-Portfolio/blob/master/Applied-ML-Models/Housing-Price-Prediction/Multi-Linear-Regression.ipynb)
+- [Predicing Telecom Customer Churn](https://github.com/ankurdhamija83/Data-Science-Portfolio/tree/master/Applied-ML-Models/Telecom-Customer-Churn)
 
 ## Stuff I have learned
-
+- [Python (Rated top 5% in Linkedin Python Assessment Test worldwide)](https://www.linkedin.com/in/ankurdhamija/overlay/1635465829047/single-media-viewer/)
+- Pandas
+- Data visualization (Matplotlib, Seaborn and Tableau)
+- Mathematics of Machine Learning (Statistics, Calculus and Linear Algebra)
+- Machine Learning Algorithms 
 
 ## Get in touch
 - [Linkedin](https://www.linkedin.com/in/ankurdhamija/)
 - <a href="mailto:ankurdhamija83@gmail.com">Email</a>
 - [Kaggle](https://www.kaggle.com/ankurdhamija83)
-
-## My Blog
 
